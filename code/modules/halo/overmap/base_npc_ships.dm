@@ -182,7 +182,7 @@
 			var/new_message = ""
 			var/datum/language/default = m.get_default_language()
 			var/iter
-			for(iter = 0; iter <= lentext(message_to_use)/2; iter++)
+			for(iter = 0; iter <= length(message_to_use)/2; iter++)
 			if(!isnull(default))
 				new_message += pick(default.syllables)
 			else

@@ -63,5 +63,5 @@
 		newname += pick(vowels) + pick(consonants)
 	else
 		//palindrome
-		newname += reverse_text(copytext(newname,1,lentext(newname)))
+		newname += reverse_text(copytext(newname,1,length(newname)))
 	return capitalize(newname)
