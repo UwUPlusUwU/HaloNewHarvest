@@ -14,6 +14,7 @@
 	outfit_type = /decl/hierarchy/outfit/lesser_prophet
 	access = list(240,250)
 	spawnpoint_override = "Covenant Base Spawns"
+	faction_whitelist = "Covenant"
 	whitelisted_species = list(/datum/species/sanshyuum)
 
 /datum/job/covenant/lesser_prophet/equip()
@@ -30,6 +31,7 @@
 	outfit_type = /decl/hierarchy/outfit/sangheili/shipmaster
 	access = list(240,250)
 	spawnpoint_override = "Covenant Base Spawns"
+	faction_whitelist = "Covenant"
 	whitelisted_species = list(/datum/species/sangheili)
 
 /datum/job/covenant/sangheili_ultra
@@ -40,6 +42,7 @@
 	outfit_type = /decl/hierarchy/outfit/sangheili/ultra
 	access = list(240,250)
 	spawnpoint_override = "Covenant Base Spawns"
+	faction_whitelist = "Covenant"
 	whitelisted_species = list(/datum/species/sangheili)
 
 /datum/job/covenant/sangheili_honour_guard
@@ -50,6 +53,7 @@
 	outfit_type = /decl/hierarchy/outfit/sangheili/honour_guard
 	access = list(240,250)
 	spawnpoint_override = "Covenant Base Spawns"
+	faction_whitelist = "Covenant"
 	whitelisted_species = list(/datum/species/sangheili)
 
 /datum/job/covenant/sangheili_major
@@ -60,6 +64,7 @@
 	outfit_type = /decl/hierarchy/outfit/sangheili/major
 	access = list(240,250)
 	spawnpoint_override = "Covenant Base Spawns"
+	faction_whitelist = "Covenant"
 	whitelisted_species = list(/datum/species/sangheili)
 
 /datum/job/covenant/sangheili_minor
@@ -70,6 +75,7 @@
 	outfit_type = /decl/hierarchy/outfit/sangheili/minor
 	access = list(240,250)
 	spawnpoint_override = "Covenant Base Spawns"
+	faction_whitelist = "Covenant"
 	whitelisted_species = list(/datum/species/sangheili)
 
 /datum/job/covenant/skirmminor
@@ -80,6 +86,7 @@
 	outfit_type = /decl/hierarchy/outfit/skirmisher_minor
 	access = list(240,250)
 	spawnpoint_override = "Covenant Base Spawns"
+	faction_whitelist = "Covenant"
 	whitelisted_species = list(/datum/species/kig_yar_skirmisher)
 
 /datum/job/covenant/skirmmajor
@@ -90,6 +97,7 @@
 	outfit_type = /decl/hierarchy/outfit/skirmisher_major
 	access = list(240,250)
 	spawnpoint_override = "Covenant Base Spawns"
+	faction_whitelist = "Covenant"
 	whitelisted_species = list(/datum/species/kig_yar_skirmisher)
 
 /datum/job/covenant/skirmmurmillo
@@ -100,6 +108,7 @@
 	outfit_type = /decl/hierarchy/outfit/skirmisher_murmillo
 	access = list(240,250)
 	spawnpoint_override = "Covenant Base Spawns"
+	faction_whitelist = "Covenant"
 	whitelisted_species = list(/datum/species/kig_yar_skirmisher)
 
 /datum/job/covenant/skirmcommando
@@ -110,6 +119,7 @@
 	outfit_type = /decl/hierarchy/outfit/skirmisher_commando
 	access = list(240,250)
 	spawnpoint_override = "Covenant Base Spawns"
+	faction_whitelist = "Covenant"
 	whitelisted_species = list(/datum/species/kig_yar_skirmisher)
 
 /datum/job/covenant/kigyarminor
@@ -120,6 +130,7 @@
 	outfit_type = /decl/hierarchy/outfit/kigyarcorvette
 	access = list(240,250)
 	spawnpoint_override = "Covenant Base Spawns"
+	faction_whitelist = "Covenant"
 	whitelisted_species = list(/datum/species/kig_yar)
 
 /datum/job/covenant/kigyarmajor
@@ -130,6 +141,7 @@
 	outfit_type = /decl/hierarchy/outfit/kigyarcorvette
 	access = list(240,250)
 	spawnpoint_override = "Covenant Base Spawns"
+	faction_whitelist = "Covenant"
 	whitelisted_species = list(/datum/species/kig_yar)
 
 /datum/job/covenant/kigyarcorvette/captain
@@ -140,6 +152,7 @@
 	outfit_type = /decl/hierarchy/outfit/kigyarcorvette/captain
 	access = list(240,250)
 	spawnpoint_override = "Covenant Base Spawns"
+	faction_whitelist = "Covenant"
 	whitelisted_species = list(/datum/species/kig_yar)
 
 /datum/job/covenant/unggoy_minor
@@ -150,6 +163,7 @@
 	outfit_type = /decl/hierarchy/outfit/unggoy
 	access = list(230,250)
 	spawnpoint_override = "Covenant Base Spawns"
+	faction_whitelist = "Covenant"
 	whitelisted_species = list(/datum/species/unggoy)
 
 /datum/job/covenant/unggoy_major
@@ -160,4 +174,5 @@
 	outfit_type = /decl/hierarchy/outfit/unggoy/major
 	access = list(230,250)
 	spawnpoint_override = "Covenant Base Spawns"
+	faction_whitelist = "Covenant"
 	whitelisted_species = list(/datum/species/unggoy)
